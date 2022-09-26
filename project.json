@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Work Day Scheduler",
+        "github": "https://github.com/jennyferconstanza/WorkDayScheduler",
+        "depolyedApp": "https://jennyferconstanza.github.io/WorkDayScheduler/",
+        "skills": "JavaScript / jQuery / API / DOM"
+    },
+    {
+        "id": 2,
+        "name": "Weather Dashboard",
+        "github": "https://github.com/jennyferconstanza/WeatherDashboard",
+        "depolyedApp": "https://jennyferconstanza.github.io/WeatherDashboard/",
+        "skills": " JavaScript / jQuery / API / DOM "
+    },
+    {
+        "id": 3,
+        "name": "Coding Quiz",
+        "github": "https://github.com/jennyferconstanza/week4challenge",
+        "depolyedApp": "https://jennyferconstanza.github.io/week4challenge/",
+        "skills": "JavaScript / jQuery"
+    }
+]
